@@ -1,20 +1,23 @@
 # Filename: Lab14.py
 
-"""
-Program to read in an image, flip it, and then
-display it to the screen.
-"""
-
 from pgl import GWindow, GImage
 
 
 
 def display_image():
     # Insert your code here
+    pass
 
 
 
 
 
-def flip_image_vertically():
+def remove_color():
     # Insert your code here
+    pass
+
+
+
+
+if __name__ == '__main__':
+    display_image("monkey.jpg")
